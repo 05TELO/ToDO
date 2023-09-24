@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+.idea
+.mypy_cache
+.py[cod]
+.venv
+*.bak
+*.swp
+*~
+venv
+todo.db
